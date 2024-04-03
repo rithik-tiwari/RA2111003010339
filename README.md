@@ -1,4 +1,4 @@
-# Average Calculator Microservice
+# Average Calculator Microservice (Question 1)
 
 This project implements an Average Calculator microservice that exposes a REST API to calculate the average of numbers fetched from a third-party server. The microservice accepts qualified number IDs ('p' for prime, 'f' for Fibonacci, 'e' for even, and 'r' for random numbers) and maintains a window of numbers for calculating the average.
 
